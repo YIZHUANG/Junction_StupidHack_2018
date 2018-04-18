@@ -1,7 +1,7 @@
 # Junction_Hackathon_2018
 A react native application using Dialogflow for Junction's stupid hack 2018 entire app made under 4 hours.
 
-Credits goes to  YI ZHUANG,	Alex Jacobs, Josiah singh, Claudio Rodríguez Vásquez.
+Credits goes to  YI ZHUANG,	Alex Jacobs, Claudio Rodríguez Vásquez,Josiah singh.
 
 Designers: Hayley Grant, Kadi Neeme (big shout out for the audio and design work!)
 
