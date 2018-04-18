@@ -6,9 +6,8 @@ Credits goes to  YI ZHUANG,	Alex Jacobs, Josiah singh, Claudio Rodríguez Vásqu
 Designers: Hayley Grant, Kadi Neeme (big shout out for the audio and design work!)
 
 ## APK
-```
 [Click here to download the app](http://www.droidbin.com/p1cbcqo0bt19p1lc9o61vv91sdu3)
-
+```
 ```
 Or Apk is available for download also in here http://www.droidbin.com/p1cbcqo0bt19p1lc9o61vv91sdu3 
 ```
