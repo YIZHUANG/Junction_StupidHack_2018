@@ -19,14 +19,11 @@ To create an app as stupid as possibile but at the same time useful!
 So app is like the perfect Alexa, Siri or whatever you prefer that gets you, helps you, comforts you in the time of need with the use of natural conversation!
 ```
 ## How to use?
-``
 Our app is divided into 2 parts. First part is the dumb mode, just hold the "speak button", and talk to our AI, for example:my ex is trying to get us back together but i don't want to,LOL.   Or There's this guy at work who behaves like an asshole to me, i don't know what to do.
 
 For the smart mode.  Click the button once. And talk to the AI, and the click the button "please allow me to speak" to get the response back!  Available list of commands are listed below. 
-``
 
 ## Commands
-``
 1. I am not feeling well.
 2. I feel loney.
 3. I feel stupid.
