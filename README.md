@@ -7,8 +7,7 @@ Designers: Hayley Grant, Kadi Neeme (big shout out for the audio and design work
 
 ## APK
 [Click here to download the app](http://www.droidbin.com/p1cbcqo0bt19p1lc9o61vv91sdu3)
-```
-```
+
 ## problems
 
 To create an app as stupid as possibile but at the same time useful!
